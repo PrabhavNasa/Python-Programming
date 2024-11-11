@@ -14,4 +14,4 @@ print('\nwith Negative Step:'.upper())
 for i in range(10, 0, -2):
     print(i)
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
