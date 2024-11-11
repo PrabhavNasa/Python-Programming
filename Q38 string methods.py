@@ -9,7 +9,7 @@ print(txt)
 print("-".join(txt))
 
 print('\nReplace and finding:'.upper())
-txt = txt.replace(txt, "Tanisha Vyas")
+txt = txt.replace(txt, "NASA")
 print(txt)
 print(txt.find("s"))
 print(txt.count("a"))
