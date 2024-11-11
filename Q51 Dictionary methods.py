@@ -1,5 +1,5 @@
 print('Creating and Modifying:'.upper())
-dic = {'name': 'TV', 'age': 21}
+dic = {'name': 'NASA', 'age': 21}
 dic['age'] = 22
 dic['city'] = 'New Delhi'
 print(dic)
