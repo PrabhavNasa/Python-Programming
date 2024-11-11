@@ -9,4 +9,4 @@ print(f"Array Sum:{sum_array}")
 print(f"Mean of Array:{mean_value}")
 print(f"Standard Deviation of Array:{std_dev}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
