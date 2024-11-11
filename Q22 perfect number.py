@@ -14,4 +14,4 @@ if is_a_perfect_number(number):
 else:
      print(f"{number} is not  a perfect number")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
