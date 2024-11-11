@@ -17,4 +17,4 @@ print(f"{a} < {b}: {a < b}")
 #Greater than or  equal to
 print(f"{a} >= {b}: {a >= b}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
