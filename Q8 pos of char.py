@@ -6,4 +6,4 @@ if pos:
 else:
     print(f"The character '{char_to_find}' is not found in the string.")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
