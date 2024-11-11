@@ -24,4 +24,4 @@ print(f"Discount Percentage: {discount_percentage}%")
 print(f"Discount Amount: {discount_amount}")
 print(f"Final Bill Amount: {final_bill}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
