@@ -3,4 +3,4 @@ def common_characters(a, b):
 s1 = input("Enter first string: ")
 s2 = input("Enter second string: ")
 print("Common characters:", common_characters(s1, s2))
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
