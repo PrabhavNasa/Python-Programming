@@ -7,4 +7,4 @@ while num > 0:
     num //= 10
 print(f'Reversed Number: {rev}')
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
