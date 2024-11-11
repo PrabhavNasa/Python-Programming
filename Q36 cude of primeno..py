@@ -28,4 +28,4 @@ end = int(input("Enter the ending number of the range: "))
 result = sum_of_cubes_of_primes(start, end)
 print(f"The sum of cubes of prime numbers between {start} and {end} is: {result}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
