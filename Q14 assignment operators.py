@@ -24,4 +24,4 @@ print(f"b//=5 -> {b}")
 b**=5
 print(f"b**=5 -> {b}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
