@@ -12,4 +12,4 @@ print('\nSet Comprehension with Condition:'.upper())
 squares = {x**2 for x in range(1,6)}
 print('Squares:',squares)
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
