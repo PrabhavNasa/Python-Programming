@@ -10,7 +10,7 @@ def count_characters(s):
             b += 1
     return v, c, b
 
-s = "This program is written by Tanisha. \nERPID: 0221BCA066\n"
+s = "\nThis program is written by Prabhav. \nERPID: 0221BCA011\n"
 print(s)
 v, c, b = count_characters(s)
 print("Vowels:", v, "Consonants:", c, "Blanks:", b)
