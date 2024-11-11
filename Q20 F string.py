@@ -1,6 +1,6 @@
 # Python program to demonstrate formatted or F string
 
-name = "Tanisha"
+name = "NASA"
 age = 21
 print(f"Name: {name}\nAge: {age}")
 
