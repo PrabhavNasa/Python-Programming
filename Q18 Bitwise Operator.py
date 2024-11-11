@@ -21,4 +21,4 @@ print(f"{a} << {b}: {a << b} (binary: {bin(a << b)})" )
 #Right Shift Operator
 print(f"{a} >> {b}: {a >> b} (binary: {bin(a >> b)})" )
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
