@@ -8,4 +8,4 @@ print("Floor of", y, "is:", math.floor(y))
 print("Power of", x, "raised to 2 is:", math.pow(x, 2))
 print("Factorial of 5 is:", math.factorial(5))
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
