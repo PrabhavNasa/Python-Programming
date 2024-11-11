@@ -33,4 +33,4 @@ if __name__ == "__main__":
     print(f"The sum of {a} and {b} is {add(a, b)}")
     print(f"The difference between {a} and {b} is {subtract(a, b)}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
