@@ -10,4 +10,4 @@ print(f"Sum of numbers: {total}")
 print(f"Number of elements: {length}")
 print(f"Sorted list of numbers: {sorted_numbers}")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
