@@ -1,4 +1,4 @@
-text = "    tAnIsHa VyAs      "
+text = "    nAsA      "
 print('Changing case:'.upper())
 print(text.lower())
 print(text.upper())
