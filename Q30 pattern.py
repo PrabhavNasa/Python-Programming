@@ -46,5 +46,4 @@ for i in range(1, 6):
     print(" " * (5 - i) + "* " * i)
 for i in range(4, 0, -1):
     print(" " * (5 - i) + "* " * i)
-    
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
