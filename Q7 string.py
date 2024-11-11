@@ -5,4 +5,4 @@ if 0 <= pos < len(string):
 else:
     print("Invalid position")
 
-print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
+print("\nThis program is written by Prabhav. \nERPID: 0221BCA011")
